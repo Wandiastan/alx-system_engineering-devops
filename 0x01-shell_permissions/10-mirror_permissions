@@ -1,0 +1,2 @@
+#!/bin/bash
+chmond --reference=0lleh hello
