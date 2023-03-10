@@ -1,2 +1,2 @@
 #!/bin/bash
-chmond --reference=0lleh hello
+chmod --reference=0lleh hello
